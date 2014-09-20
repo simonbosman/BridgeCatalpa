@@ -1,0 +1,14 @@
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\bin\Debug\WpfBridgeCatalpaSettings.exe.config
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\bin\Debug\WpfBridgeCatalpaSettings.exe
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\bin\Debug\WpfBridgeCatalpaSettings.pdb
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\x86\Debug\WpfBridgeCatalpaSettings_MarkupCompile.cache
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\x86\Debug\WpfBridgeCatalpaSettings.g.resources
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\x86\Debug\WpfBridgeCatalpaSettings.exe
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\x86\Debug\WpfBridgeCatalpaSettings.pdb
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\x86\Debug\BridgeCatalpa.Properties.Resources.resources

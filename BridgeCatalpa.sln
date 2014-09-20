@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeCatalpa", "BridgeCatalpa\BridgeCatalpa.csproj", "{BBF3FCC7-CE0E-4C2B-A6A1-8776EFBA2A7B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Bridge Catalpa", "SetupBridgeCatalpa\SetupBridgeCatalpa.vdproj", "{64C9AC3B-F5BE-4390-866B-A5AC6E82FE66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeCatalpaSettings", "WpfBridgeCatalpaSettings\BridgeCatalpaSettings.csproj", "{15E1891C-1706-4C93-B32F-68ECEF581462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF3FCC7-CE0E-4C2B-A6A1-8776EFBA2A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF3FCC7-CE0E-4C2B-A6A1-8776EFBA2A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF3FCC7-CE0E-4C2B-A6A1-8776EFBA2A7B}.Debug|x86.ActiveCfg = Debug|x86
+		{BBF3FCC7-CE0E-4C2B-A6A1-8776EFBA2A7B}.Debug|x86.Build.0 = Debug|x86
+		{BBF3FCC7-CE0E-4C2B-A6A1-8776EFBA2A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF3FCC7-CE0E-4C2B-A6A1-8776EFBA2A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF3FCC7-CE0E-4C2B-A6A1-8776EFBA2A7B}.Release|x86.ActiveCfg = Release|x86
+		{BBF3FCC7-CE0E-4C2B-A6A1-8776EFBA2A7B}.Release|x86.Build.0 = Release|x86
+		{64C9AC3B-F5BE-4390-866B-A5AC6E82FE66}.Debug|Any CPU.ActiveCfg = Debug
+		{64C9AC3B-F5BE-4390-866B-A5AC6E82FE66}.Debug|Any CPU.Build.0 = Debug
+		{64C9AC3B-F5BE-4390-866B-A5AC6E82FE66}.Debug|x86.ActiveCfg = Debug
+		{64C9AC3B-F5BE-4390-866B-A5AC6E82FE66}.Release|Any CPU.ActiveCfg = Release
+		{64C9AC3B-F5BE-4390-866B-A5AC6E82FE66}.Release|Any CPU.Build.0 = Release
+		{64C9AC3B-F5BE-4390-866B-A5AC6E82FE66}.Release|x86.ActiveCfg = Release
+		{15E1891C-1706-4C93-B32F-68ECEF581462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E1891C-1706-4C93-B32F-68ECEF581462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E1891C-1706-4C93-B32F-68ECEF581462}.Debug|x86.ActiveCfg = Debug|x86
+		{15E1891C-1706-4C93-B32F-68ECEF581462}.Debug|x86.Build.0 = Debug|x86
+		{15E1891C-1706-4C93-B32F-68ECEF581462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E1891C-1706-4C93-B32F-68ECEF581462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E1891C-1706-4C93-B32F-68ECEF581462}.Release|x86.ActiveCfg = Release|x86
+		{15E1891C-1706-4C93-B32F-68ECEF581462}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

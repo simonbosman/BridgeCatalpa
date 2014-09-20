@@ -1,0 +1,11 @@
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\BridgeCatalpa\bin\Debug\BridgeCatalpa.exe
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\BridgeCatalpa\bin\Debug\BridgeCatalpa.pdb
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\BridgeCatalpa\bin\Debug\Microsoft.VisualStudio.CSharp.Services.Language.dll
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\BridgeCatalpa\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\BridgeCatalpa\obj\Debug\BridgeCatalpa.BackgroundService.resources
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\BridgeCatalpa\obj\Debug\BridgeCatalpa.BackgroundServiceInstaller.resources
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\BridgeCatalpa\obj\Debug\BridgeCatalpa.Properties.Resources.resources
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\BridgeCatalpa\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\BridgeCatalpa\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\BridgeCatalpa\obj\Debug\BridgeCatalpa.exe
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\BridgeCatalpa\obj\Debug\BridgeCatalpa.pdb

@@ -1,0 +1,34 @@
+﻿<Window x:Class="BridgeCatalpa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bridge Catalpa Settings" Height="453" Width="430" Background="#FFFFC220">
+    <Grid Background="#FFFFC220" Height="341" Width="406" DataContext="{Binding}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="37*" />
+            <RowDefinition Height="358*" />
+        </Grid.RowDefinitions>
+        <TextBox Height="22" HorizontalAlignment="Left" Margin="160,75,0,0" Name="textBox2" Text="" VerticalAlignment="Top" Width="192" Grid.Row="1" />
+        <PasswordBox Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="160,103,0,0" Name="passwordBox1" VerticalAlignment="Top" Width="192" />
+        <TextBox Height="22" HorizontalAlignment="Left" Margin="160,0,0,155" Name="textBox4" Text="" VerticalAlignment="Bottom" Width="192" Grid.Row="1" />
+        <Image Height="75" HorizontalAlignment="Left" Name="image1" Stretch="None" VerticalAlignment="Top" Width="133" Source="/BridgeCatalpaSettings;component/Images/logo1.gif" Grid.RowSpan="2" />
+        <TextBox Height="22" HorizontalAlignment="Right" Margin="0,160,54,0" Name="textBox5" Text="" VerticalAlignment="Top" Width="192" Grid.Row="1" />
+        <TextBox Height="22" HorizontalAlignment="Left" Margin="160,188,0,0" Name="textBox6" Text="" VerticalAlignment="Top" Width="192" Grid.Row="1" />
+        <TextBox Height="22" HorizontalAlignment="Left" Margin="160,216,0,0" Name="textBox7" Text="" VerticalAlignment="Top" Width="192" Grid.Row="1" />
+        <TextBlock Height="29" Name="textBlock1" Text="Instellingen Bridge Catalpa" Width="254" DataContext="{Binding}" FontSize="18" FontWeight="Bold" FontStretch="Normal" TextAlignment="Center" Margin="139,31,13,281" Foreground="#FFD41900" Grid.RowSpan="2" Background="#FFFFC220" />
+        <Label Content="Usernaam" FontSize="12" Foreground="#FFD41900" Height="24" HorizontalAlignment="Left" Margin="47,0,0,210" Name="label2" VerticalAlignment="Bottom" Width="86" Grid.Row="1" />
+        <Label Content="Wachtwoord" FontSize="12" Foreground="#FFD41900" Height="24" HorizontalAlignment="Left" Margin="47,105,0,0" Name="label3" VerticalAlignment="Top" Width="86" Grid.Row="1" />
+        <Label Content="Share/map IN" FontSize="12" Foreground="#FFD41900" HorizontalAlignment="Left" Margin="47,132,0,108" Name="label4" Width="86" Grid.Row="1" />
+        <Label Content="Share/map OUT" FontSize="12" Foreground="#FFD41900" Height="24" HorizontalAlignment="Left" Margin="47,160,0,0" Name="label5" VerticalAlignment="Top" Width="107" Grid.Row="1" />
+        <Label Content="Share/map FOUT" FontSize="12" Foreground="#FFD41900" Height="24" HorizontalAlignment="Left" Margin="47,188,0,0" Name="label6" VerticalAlignment="Top" Width="107" Grid.Row="1" />
+        <Label Content="Share/map LOG" FontSize="12" Foreground="#FFD41900" Height="24" HorizontalAlignment="Left" Margin="47,216,0,0" Name="label7" VerticalAlignment="Top" Width="107" Grid.Row="1" />
+        <Button Content="Opslaan" Height="29" HorizontalAlignment="Left" Margin="263,278,0,0" Name="button2" VerticalAlignment="Top" Width="92" Grid.Row="1" Click="button2_Click" />
+        <Label Grid.Row="1" Height="29" HorizontalAlignment="Left" Margin="7,278,0,0" Name="label8" VerticalAlignment="Top" Width="148" Foreground="#FF009700" Visibility="Hidden" Content="Instellingen opgeslagen" FontSize="12" />
+        <Button Content="..." Grid.Row="1" Height="22" HorizontalAlignment="Left" Margin="358,132,0,0" Name="button1" VerticalAlignment="Top" Width="41" Click="button1_Click" />
+        <Button Content="..." Height="22" HorizontalAlignment="Left" Margin="358,160,0,0" Name="button3" VerticalAlignment="Top" Width="41" Grid.Row="1" Click="button3_Click" />
+        <Button Content="..." Height="22" HorizontalAlignment="Left" Margin="358,187,0,0" Name="button4" VerticalAlignment="Top" Width="41" Grid.Row="1" Click="button4_Click" />
+        <Button Content="..." Height="22" HorizontalAlignment="Left" Margin="358,216,0,0" Name="button5" VerticalAlignment="Top" Width="41" Grid.Row="1" Click="button5_Click" />
+        <Button Content="Sluiten" Height="29" HorizontalAlignment="Left" Margin="159,278,0,0" Name="button6" VerticalAlignment="Top" Width="92" Grid.Row="1" Click="button6_Click" />
+        <Label Content="Check Deb. Nr." FontSize="12" Foreground="#FFD41900" Height="24" HorizontalAlignment="Left" Margin="47,246,0,0" Name="label9" VerticalAlignment="Top" Width="107" Grid.Row="1" />
+        <CheckBox Grid.Row="1" Height="16" HorizontalAlignment="Left" Margin="160,252,0,0" Name="checkBox1" VerticalAlignment="Top" Width="120" />
+    </Grid>
+</Window>

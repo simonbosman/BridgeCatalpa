@@ -1,0 +1,30 @@
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\bin\Release\BridgeCatalpaSettings.exe
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\bin\Release\BridgeCatalpaSettings.exe.config
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\MainWindow.baml
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\App.baml
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\MainWindow.g.cs
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\App.g.cs
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\BridgeCatalpaSettings_MarkupCompile.cache
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\BridgeCatalpaSettings.g.resources
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\BridgeCatalpa.Properties.Resources.resources
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\BridgeCatalpaSettings.exe
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\BridgeCatalpaSettings.pdb
+C:\Documents and Settings\simon\mijn documenten\visual studio 2010\Projects\BridgeCatalpa\WpfBridgeCatalpaSettings\bin\Release\BridgeCatalpaSettings.pdb
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\bin\Release\BridgeCatalpaSettings.exe.config
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\bin\Release\BridgeCatalpaSettings.exe
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\bin\Release\BridgeCatalpaSettings.pdb
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\MainWindow.baml
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\App.baml
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\App.g.cs
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\BridgeCatalpaSettings_MarkupCompile.cache
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\BridgeCatalpaSettings.g.resources
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\BridgeCatalpa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\BridgeCatalpaSettings.exe
+C:\Users\Administrator\Desktop\BridgeCatalpa\WpfBridgeCatalpaSettings\obj\Release\BridgeCatalpaSettings.pdb
